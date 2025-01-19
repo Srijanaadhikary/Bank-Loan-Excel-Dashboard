@@ -2,6 +2,7 @@
 ## Project Objective
 The primary objective of the Detail Dashboard is to provide a compreshive and user-friendly interface for accessing vital loan data. It will serve as a one-stop solution for users seeking detail insights into our loan portfolio, bprrower profiles, and loan performance.
 ## Data Set
+<a href="Bank-Loan-Excel-Dashboard/financial_loan.csv at main · Srijanaadhikary/Bank-Loan-Excel-Dashboard https://github.com/Srijanaadhikary/Bank-Loan-Excel-Dashboard/blob/main/financial_loan.csv'>Dataset</a>
 
 ## Question (KPIs)
 1. Total Loan Applications
